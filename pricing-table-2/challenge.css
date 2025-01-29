@@ -147,7 +147,8 @@ h1 {
 }
 
 .champion {
-  
+  background: #312D1D;
+  border: 1px solid #FFD93D;
 }
 .champion .price-block{
   background: #3C3829;
